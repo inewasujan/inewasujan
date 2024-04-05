@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Space_Invaders](https://github.com/inewasujan/inewasujan/assets/26395937/8d06561f-7a63-4760-9ab1-6dc33e4f1fe7)
+[Space_Invaders](https://github.com/inewasujan/inewasujan/assets/26395937/8d06561f-7a63-4760-9ab1-6dc33e4f1fe7)
 
 <!--
 **inewasujan/inewasujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
