@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a frontend developer who loves to create beautiful designs, develop web components, and casually write about them. 
+I am a Frontend developer who loves to create beautiful designs, develop web components, and casually write about them. 
 
 
 <h3>Skills</h3>
